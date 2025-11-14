@@ -6,7 +6,7 @@ I’m passionate about understanding how attacks work, securing networks, and bu
 
 ---
 
-## 🛡️ Badges & Tools
+## 🛡️ Tools
 
 ### 🧰 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
