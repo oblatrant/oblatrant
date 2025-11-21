@@ -1,6 +1,6 @@
 ##  Hi, I'm **Maddie!**
 ### Cybersecurity Student • Network Security & Penetration Testing Enthusiast  
-Sophomore @ **Minnesota State University Moorhead**
+Sophomore @ **MSUM**
 
 I’m passionate about understanding how attacks work, securing networks, and building stronger defenses. I love hands-on learning, ethical hacking, and exploring real-world cybersecurity techniques in lab environments.
 
@@ -46,12 +46,6 @@ I’m passionate about understanding how attacks work, securing networks, and bu
 - Studying network defense, threat analysis, and vulnerability scanning  
 - Preparing for future certifications (Security+, CC, CEH) 
 
----
-
-## 🛠️ Projects I'm Improving
-- **🕵️ Network Scanning Toolkit:** Python/batch scripts for enumeration  
-- **📊 SOC Log Analysis:** Detecting anomalies in simulated security logs
-- **⚔️ Huntress:** DoS Script
 ---
 
 ## 🎯 My Cybersecurity Goals
