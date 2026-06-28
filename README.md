@@ -1,6 +1,6 @@
 ##  Hi, I'm **Maddie!**
 ### Cybersecurity Student • Network Security & Penetration Testing Enthusiast  
-Sophomore @ **MSUM**
+Junior @ **MSUM**
 
 I’m passionate about understanding how attacks work, securing networks, and building stronger defenses. I love hands-on learning, ethical hacking, and exploring real-world cybersecurity techniques in lab environments.
 
@@ -42,14 +42,6 @@ I’m passionate about understanding how attacks work, securing networks, and bu
 ---
 
 ## 🚀 What I'm Working On
-- Practicing penetration testing techniques ethically & safely  
+- Practicing penetration testing techniques 
 - Studying network defense, threat analysis, and vulnerability scanning  
-- Preparing for future certifications (Security+, CC, CEH) 
-
----
-
-## 🎯 My Cybersecurity Goals
-- Grow as a penetration tester & network defender  
-- Intern in a SOC, cybersecurity, or network security role  
-- Contribute to open-source security tools  
-- Master Linux, scripting, and advanced security skills  
+- Preparing for future certifications
